@@ -13,3 +13,4 @@ void REQUEST_ADDITIONAL_COLLISION_AT_COORD(float x, float y, float z);
 * **y**: 
 * **z**: 
 
+NOTE: Collision will not be loaded in the same frame as it is requested in.
